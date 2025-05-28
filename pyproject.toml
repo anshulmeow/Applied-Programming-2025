@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "marimo>=0.12.4",
     "pyqt5>=5.15.11",
+    "pyqt5-qt5==5.15.2",
     "vispy>=0.15.2",
 ]
 
