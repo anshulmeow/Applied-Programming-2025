@@ -59,6 +59,11 @@ Your application must include:
    - Ability to view the entire recorded signal
    - Channel selection for offline viewing
    - Basic signal analysis tools
+     
+#### Optional Feature Ideads
+  - Change from unfiltered signal to filtered signal or RMS signal
+  - STOP and RESUME Button
+    
 
 5. User Interface (View Layer)
    - TCP connection controls
