@@ -93,12 +93,12 @@ finally:
 ### Data Format
 For your signal visualization project, the TCP data should be formatted as follows:
 ```
-[timestamp],[channel1_value],[channel2_value],...,[channel32_value]\n
+[channel1_value],[channel2_value],...,[channel32_value]\n
 ```
 
 Example:
 ```
-1234567890,0.5,0.3,0.7,...,0.2\n
+0.5,0.3,0.7,...,0.2\n
 ```
 
 ### Connection Details
